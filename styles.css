@@ -14,6 +14,9 @@ img{
 
     height: 500px;
     width: 350px;
+    border: 22px solid;
+    color: #efe0e1;
+    border-radius: 600px;
 }
 a{
     font-size: 30px;
