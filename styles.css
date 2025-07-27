@@ -7,7 +7,7 @@ h1{
     
 }
 body{
-    background-color: #FEC5F6;
+    background:linear-gradient(to left,rgb(27, 82, 82),rgb(167, 114, 114)) ;
     text-align: center;
 }
 img{
